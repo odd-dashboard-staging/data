@@ -106,3 +106,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.history
+data/.DS_Store
+.gitignore
+.DS_Store
