@@ -83,17 +83,19 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Urbanisation",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
