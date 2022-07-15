@@ -126,20 +126,18 @@
             "title": "Year"
           },
           {
-            "name": "Urbanisation",
-            "type": "string",
+            "name": "Group",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
                 ""
               ]
             },
-            "title": "Urbanisation"
+            "title": "Group"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
