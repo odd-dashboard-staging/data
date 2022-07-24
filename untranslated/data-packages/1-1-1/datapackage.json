@@ -15,10 +15,48 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "15-24",
+                "25+",
+                "15-64",
+                "65+",
+                "<15Y",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RURAL",
+                "URBAN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PERCENT",
                 ""
               ]
             }

@@ -16,14 +16,45 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Sex",
             "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PERCENT",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

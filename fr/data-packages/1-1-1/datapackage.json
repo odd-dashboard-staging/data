@@ -16,14 +16,55 @@
             "title": "Année"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "FEMALE",
+                "MALE",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "15-24",
+                "25+",
+                "15-64",
+                "65+",
+                "<15Y",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RURAL",
+                "URBAN",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PERCENT",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
