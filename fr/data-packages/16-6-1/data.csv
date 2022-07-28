@@ -1,1 +1,7 @@
-Year,Value
+Year,Sex,Age,Location,Quantile,Units,Value
+2004,,,,,PERCENT,70.0
+2005,,,,,PERCENT,120.9
+2006,,,,,PERCENT,116.1
+2010,,,,,PERCENT,99.7561
+2011,,,,,PERCENT,104.582
+2012,,,,,PERCENT,129.0098

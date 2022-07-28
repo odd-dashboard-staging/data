@@ -1,1 +1,4 @@
-Year,Value
+Year,Sex,Age,Location,Quantile,Units,Value
+2019,,,,,NUMBER,
+2020,,,,,NUMBER,
+2021,,,,,NUMBER,

@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2015,2016,2017,2018,2019,2020],"Sex":[null,null,null,null,null,null],"Age":[null,null,null,null,null,null],"Location":[null,null,null,null,null,null],"Quantile":[null,null,null,null,null,null],"Units":["SCORE","SCORE","SCORE","SCORE","SCORE","SCORE"],"Value":[2.93,3.34,3.16,3.16,3.16,3.16]},"edges":[]}

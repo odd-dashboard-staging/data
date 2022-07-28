@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "BOTHSEX",
                 "FEMALE",
                 "MALE",
                 ""
@@ -38,6 +39,7 @@
                 "15-64",
                 "65+",
                 "<15Y",
+                "ALLAGE",
                 ""
               ]
             },
@@ -48,12 +50,23 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ALLAREA",
                 "RURAL",
                 "URBAN",
                 ""
               ]
             },
             "title": "Location"
+          },
+          {
+            "name": "Quantile",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Quantile"
           },
           {
             "name": "Units",

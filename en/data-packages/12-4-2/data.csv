@@ -1,1 +1,4 @@
-Year,Value
+Year,Sex,Age,Location,Quantile,Units,Value
+2012,,,,,TONNES,314269000
+2013,,,,,TONNES,479639000
+2014,,,,,TONNES,589168000

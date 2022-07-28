@@ -1,1 +1,5 @@
-Year,Value
+Year,Sex,Age,Location,Quantile,Units,Value
+2020,,,,,INDEX,0.797
+2020,,,,,INDEX,0.875
+2020,,,,,INDEX,0.833
+2020,,,,,INDEX,0.9

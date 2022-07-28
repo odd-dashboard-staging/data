@@ -1,1 +1,3 @@
-Year,Value
+Year,Sex,Age,Location,Quantile,Units,Value
+2012,,,,B40,PERCENT,9.78
+2012,,,,,PERCENT,9.83

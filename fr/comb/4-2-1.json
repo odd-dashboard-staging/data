@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2018,2018,2018],"Sex":["BOTHSEX","FEMALE","MALE"],"Age":["M36T59","M36T59","M36T59"],"Location":[null,null,null],"Quantile":[null,null,null],"Units":["PERCENT","PERCENT","PERCENT"],"Value":[56.7,57.2,56.2]},"edges":{"From":["Sex"],"To":["Age"]}}

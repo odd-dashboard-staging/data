@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2019,2019,2019,2019,2019,2019],"Sex":[null,null,null,null,null,null],"Age":[null,null,null,null,null,null],"Location":[null,null,null,null,null,null],"Quantile":[null,null,null,null,null,null],"Units":["TONNES","TONNES","TONNES","KG","KG","KG"],"Value":[1357424.82388,2399592.9804699998,8912902.7150599994,102.69437,27.64808,15.64023]},"edges":[]}

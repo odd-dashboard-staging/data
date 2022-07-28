@@ -1,1 +1,4 @@
-Year,Value
+Year,Sex,Age,Location,Quantile,Units,Value
+2019,,,,,PER_100000_POP,84
+2019,,,,,PER_100000_POP,172
+2019,,,,,PER_100000_POP,216

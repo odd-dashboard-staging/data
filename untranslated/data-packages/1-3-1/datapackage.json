@@ -42,6 +42,16 @@
             }
           },
           {
+            "name": "Quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Q1",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

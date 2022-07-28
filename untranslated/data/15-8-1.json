@@ -1,1 +1,1 @@
-[]
+{"Year":[2010,2016,2016,2020,2020],"Sex":[null,null,null,null,null],"Age":[null,null,null,null,null],"Location":[null,null,null,null,null],"Quantile":[null,null,null,null,null],"Units":["BOOL","BOOL","BOOL","BOOL","BOOL"],"Value":[0,0,1,1,1]}

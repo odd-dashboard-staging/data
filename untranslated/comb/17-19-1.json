@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2016,2017,2018,2019],"Sex":[null,null,null,null],"Age":[null,null,null,null],"Location":[null,null,null,null],"Quantile":[null,null,null,null],"Units":["CU_USD","CU_USD","CU_USD","CU_USD"],"Value":[1612106.51529,4511193.9735000003,775565.02518,32577121.9899999984]},"edges":[]}

@@ -1,1 +1,5 @@
-Year,Value
+Year,Sex,Age,Location,Quantile,Units,Value
+2000,,,,,MT_CO2E,46.74916
+2001,,,,,MT_CO2E,46.00738
+2002,,,,,MT_CO2E,45.91401
+2003,,,,,MT_CO2E,45.99898

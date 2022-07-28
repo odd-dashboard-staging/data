@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2016,2016,2016,2016,2018,2018,2018,2018],"Sex":[null,null,null,null,null,null,null,null],"Age":[null,null,null,null,null,null,null,null],"Location":[null,null,null,null,null,null,null,null],"Quantile":[null,null,null,null,null,null,null,null],"Units":["PERCENT","PERCENT","PERCENT","PERCENT","PERCENT","PERCENT","PERCENT","PERCENT"],"Value":[100.0,62.6,52.3,71.63333,71.05263,39.65054,17.82738,42.84352]},"edges":[]}

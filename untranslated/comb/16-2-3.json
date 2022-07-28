@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2014],"Sex":["FEMALE"],"Age":["18-29"],"Location":[null],"Quantile":[null],"Units":["PERCENT"],"Value":[13.4]},"edges":{"From":["Sex"],"To":["Age"]}}

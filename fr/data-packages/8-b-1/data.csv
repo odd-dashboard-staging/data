@@ -1,1 +1,4 @@
-Year,Value
+Year,Sex,Age,Location,Quantile,Units,Value
+2019,,,,,SCORE,1
+2020,,,,,SCORE,1
+2021,,,,,SCORE,1

@@ -48,6 +48,16 @@
             "title": "Location"
           },
           {
+            "name": "Quantile",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Quantile"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

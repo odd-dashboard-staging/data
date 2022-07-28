@@ -1,1 +1,6 @@
-Year,Value
+Year,Value,Units
+2010,0,BOOL
+2016,0,BOOL
+2016,1,BOOL
+2020,1,BOOL
+2020,1,BOOL

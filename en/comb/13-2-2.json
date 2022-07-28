@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2000,2001,2002,2003],"Sex":[null,null,null,null],"Age":[null,null,null,null],"Location":[null,null,null,null],"Quantile":[null,null,null,null],"Units":["MT_CO2E","MT_CO2E","MT_CO2E","MT_CO2E"],"Value":[46.74916,46.00738,45.91401,45.99898]},"edges":[]}
