@@ -1,3 +1,5 @@
-Year,Sex,Age,Location,Units,Value
-2015,,,,PERCENT,NaN
-2015,_N,,,PERCENT,NaN
+Year;Sex;Age;Location;Units;Value
+2015;;;;PERCENT;NaN
+2015;_N;;;PERCENT;NaN
+2020;;;URBAIN;PERCENT;15.25
+2020;;;RURAL;PERCENT;19.80

@@ -1,3 +1,6 @@
-Year,Sex,Age,Location,Units,Value
-2005,,,,PERCENT,3.6
-2012,,,,PERCENT,5.9
+Year;Sex;Age;Location;Units;Value
+2005;;;;PERCENT;3.6
+2010;;;;PERCENT;6.99
+2011;;;;PERCENT;6.62
+2012;;;;PERCENT;6.60
+2013;;;;PERCENT;7.22

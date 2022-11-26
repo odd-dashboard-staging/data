@@ -1,4 +1,4 @@
-Year,Sex,Age,Location,Units,Value
-2019,,,,NUMBER,NaN
-2020,,,,NUMBER,NaN
-2021,,,,NUMBER,NaN
+Year;Sex;Age;Location;Units;Value
+2019;;;;NUMBER;NaN
+2020;;;;NUMBER;NaN
+2021;;;;NUMBER;NaN

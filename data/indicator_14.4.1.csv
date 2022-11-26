@@ -1,2 +1,11 @@
-Year,Sex,Age,Location,Units,Value
-2018,,,,PERCENT,NaN
+Year;Sex;Age;Location;Units;;Value
+2018;;;;PERCENT;;NaN
+2010;;;;Million de tonnes;;707
+2011;;;;Million de tonnes;;707
+2012;;;;Million de tonnes;;707
+2013;;;;Million de tonnes;;707
+2014;;;;Million de tonnes;;707
+2015;;;;Million de tonnes;;707
+2016;;;;Million de tonnes;;707
+2017;;;;Million de tonnes;;707
+2018;;;;Million de tonnes;;707

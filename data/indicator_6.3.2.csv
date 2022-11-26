@@ -1,3 +1,3 @@
-Year,Sex,Age,Location,Units,Value
-2020,,,,PERCENT,66
-2020,,,,PERCENT,66
+Year;Sex;Age;Location;Units;Value
+2020;;;;PERCENT;66
+2020;;;;PERCENT;66

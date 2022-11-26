@@ -1,4 +1,4 @@
-Year,Sex,Age,Location,Units,Value
-2021,,,,NUMBER,1
-2021,,,,NUMBER,1
-2021,,,,NUMBER,2
+Year;Sex;Age;Location;Units;Value
+2021;;;;NUMBER;1
+2021;;;;NUMBER;1
+2021;;;;NUMBER;2
