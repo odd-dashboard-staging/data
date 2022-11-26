@@ -1,2 +1,2 @@
-Year,Sex,Age,Location,Units,Value
-2014,FEMALE,18-29,,PERCENT,13.4
+Year;Sex;Age;Location;Units;Value
+2014;FEMALE;18-29;;PERCENT;13.4

@@ -1,2 +1,2 @@
-Year,Sex,Age,Location,Units,Value
-2020,,,,NUMBER,1
+Year;Sex;Age;Location;Units;Value
+2020;;;;NUMBER;1

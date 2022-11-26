@@ -1,4 +1,4 @@
-Year,Sex,Age,Location,Units,Value
-2019,,,,SCORE,NaN
-2020,,,,SCORE,NaN
-2021,,,,SCORE,NaN
+Year;Sex;Age;Location;Units;Value
+2019;;;;;NaN
+2020;;;;;1
+2021;;;;;1

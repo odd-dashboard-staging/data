@@ -1,5 +1,5 @@
-Year,Sex,Age,Location,Units,Value
-2020,,,,INDEX,0.797
-2020,,,,INDEX,0.875
-2020,,,,INDEX,0.833
-2020,,,,INDEX,0.900
+Year;Sex;Age;Location;Units;Value
+2020;;;;INDEX;0.797
+2020;;;;INDEX;0.875
+2020;;;;INDEX;0.833
+2020;;;;INDEX;0.900
