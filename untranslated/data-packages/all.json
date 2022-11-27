@@ -7725,10 +7725,10 @@
                 "15+",
                 "15-24",
                 "25+",
+                "ALLAGE",
                 "15-64",
                 "65+",
                 "<15Y",
-                "ALLAGE",
                 ""
               ]
             }
@@ -7741,15 +7741,45 @@
                 "ALLAREA",
                 "RURAL",
                 "URBAN",
+                "RDC",
+                "KINSHASA",
+                "KONGO CENTRAL",
+                "KWANGO",
+                "KWILU",
+                "MAI-NDOMBE",
+                "EQUATEUR",
+                "NORD UBANGI",
+                "SUD UBANGI",
+                "MONGALA",
+                "TSHUAPA",
+                "TSHOPO",
+                "BAS UELE",
+                "HAUT UELE",
+                "ITURI",
+                "NORD KIVU",
+                "SUD KIVU",
+                "MANIEMA",
+                "HAUT KATANGA",
+                "HAUT LOMAMI",
+                "LUALABA",
+                "TANGANYIKA",
+                "LOMAMI",
+                "SANKURU",
+                "KASAI ORIENTAL",
+                "KASAI",
+                "KASAI CENTRAL",
+                "AUTRES URBAINS",
+                "ENS URBAIN",
                 ""
               ]
             }
           },
           {
             "name": "Quantile",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "PERCENT",
                 ""
               ]
             }
@@ -7760,6 +7790,33 @@
             "constraints": {
               "enum": [
                 "PERCENT",
+                "74.7",
+                "36.3",
+                "74.6",
+                "94.3",
+                "93.2",
+                "92.4",
+                "83.5",
+                "88.9",
+                "94.6",
+                "91.3",
+                "82.2",
+                "87.2",
+                "81.7",
+                "58.4",
+                "72.5",
+                "73.7",
+                "59.1",
+                "58.2",
+                "88.1",
+                "85.2",
+                "84",
+                "94.9",
+                "92.1",
+                "91.2",
+                "74.3",
+                "62.6",
+                "84.9",
                 ""
               ]
             }

@@ -1,3 +1,4 @@
 From,To
 Sex,Age
 Age,Location
+Location,Quantile
