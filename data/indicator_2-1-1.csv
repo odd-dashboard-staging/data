@@ -19,14 +19,14 @@ Year,Sex,Age,Location,Quantile,Units,Value
 2009,,,,,NUM_M,24.2
 2010,,,,,PERCENT,38.8
 2010,,,,,NUM_M,25.1
-2011,,,,,PERCENT,40
+2011,,,,,PERCENT,40.0
 2011,,,,,NUM_M,26.7
 2012,,,,,PERCENT,41.5
 2012,,,,,NUM_M,28.6
 2013,,,,,PERCENT,41.5
 2013,,,,,NUM_M,29.6
 2014,,,,,PERCENT,40.7
-2014,,,,,NUM_M,30
+2014,,,,,NUM_M,30.0
 2015,,,,,PERCENT,40.1
 2015,,,,,NUM_M,30.6
 2016,,,,,PERCENT,39.9
@@ -34,6 +34,6 @@ Year,Sex,Age,Location,Quantile,Units,Value
 2017,,,,,PERCENT,40.2
 2017,,,,,NUM_M,32.7
 2018,,,,,PERCENT,40.4
-2018,,,,,NUM_M,34
+2018,,,,,NUM_M,34.0
 2019,,,,,PERCENT,41.7
 2019,,,,,NUM_M,36.2

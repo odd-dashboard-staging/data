@@ -1,7 +1,7 @@
 Year,Sex,Age,Location,Quantile,Units,Value
 2000,,,,,PERCENT,-9.3
 2001,,,,,PERCENT,-4.7
-2002,,,,,PERCENT,0
+2002,,,,,PERCENT,0.0
 2003,,,,,PERCENT,2.5
 2004,,,,,PERCENT,3.5
 2005,,,,,PERCENT,2.8
@@ -12,7 +12,7 @@ Year,Sex,Age,Location,Quantile,Units,Value
 2010,,,,,PERCENT,5.3
 2011,,,,,PERCENT,5.3
 2012,,,,,PERCENT,5.5
-2013,,,,,PERCENT,5
+2013,,,,,PERCENT,5.0
 2014,,,,,PERCENT,5.9
 2015,,,,,PERCENT,3.4
 2016,,,,,PERCENT,-0.9
