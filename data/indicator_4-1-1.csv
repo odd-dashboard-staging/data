@@ -1,5 +1,5 @@
 Year,Sex,Age,Location,Quantile,Units,Value
-2010,,,,,PERCENT,38
+2010,,,,,PERCENT,38.0
 2019,,,,,PERCENT,76.8
 2019,,,,,PERCENT,41.6
 2019,,,,,PERCENT,9.2
@@ -11,4 +11,4 @@ Year,Sex,Age,Location,Quantile,Units,Value
 2019,MALE,,,,PERCENT,43.1
 2019,MALE,,,,PERCENT,3.6
 2019,MALE,,,,PERCENT,9.9
-2019,MALE,,,,PERCENT,82
+2019,MALE,,,,PERCENT,82.0
