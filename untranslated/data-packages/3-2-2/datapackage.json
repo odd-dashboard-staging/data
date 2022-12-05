@@ -58,7 +58,6 @@
             "constraints": {
               "enum": [
                 "PER_1000_LIVE_BIRTHS",
-                "NUMBER",
                 ""
               ]
             }

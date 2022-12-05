@@ -61,7 +61,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NUM_TH",
                 "PER_POP_U5",
                 ""
               ]

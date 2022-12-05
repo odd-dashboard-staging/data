@@ -244,9 +244,11 @@
           },
           {
             "name": "Sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "MALE",
+                "FEMALE",
                 ""
               ]
             },
@@ -288,8 +290,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NUM_TH",
-                "PER_POP_U5",
+                "PERCENT",
                 ""
               ]
             },
@@ -3792,9 +3793,39 @@
           },
           {
             "name": "Location",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "RDC",
+                "KINSHASA",
+                "KONGO CENTRAL",
+                "KWANGO",
+                "KWILU",
+                "MAI-NDOMBE",
+                "EQUATEUR",
+                "NORD UBANGI",
+                "SUD UBANGI",
+                "MONGALA",
+                "TSHUAPA",
+                "TSHOPO",
+                "BAS UELE",
+                "HAUT UELE",
+                "ITURI",
+                "NORD KIVU",
+                "SUD KIVU",
+                "MANIEMA",
+                "HAUT KATANGA",
+                "HAUT LOMAMI",
+                "LUALABA",
+                "TANGANYIKA",
+                "LOMAMI",
+                "SANKURU",
+                "KASAI ORIENTAL",
+                "KASAI",
+                "KASAI CENTRAL",
+                "AUTRES URBAINS",
+                "ENS URBAIN",
+                "RURAL",
                 ""
               ]
             },
@@ -4207,7 +4238,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PERCENT",
                 "INDEX",
                 ""
               ]
@@ -5047,7 +5077,6 @@
             "constraints": {
               "enum": [
                 "PER_1000_LIVE_BIRTHS",
-                "NUMBER",
                 ""
               ]
             },
@@ -5345,6 +5374,18 @@
               ]
             },
             "title": "Quantile"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DOCTOR",
+                "NURSE",
+                ""
+              ]
+            },
+            "title": "Type"
           },
           {
             "name": "Units",
@@ -9860,7 +9901,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NUM_TH",
                 "PER_POP_U5",
                 ""
               ]

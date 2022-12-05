@@ -17,9 +17,11 @@
           },
           {
             "name": "Sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "MALE",
+                "FEMALE",
                 ""
               ]
             },
@@ -61,8 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NUM_TH",
-                "PER_POP_U5",
+                "PERCENT",
                 ""
               ]
             },

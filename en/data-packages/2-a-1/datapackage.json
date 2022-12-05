@@ -60,7 +60,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PERCENT",
                 "INDEX",
                 ""
               ]

@@ -58,6 +58,18 @@
             "title": "Quantile"
           },
           {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DOCTOR",
+                "NURSE",
+                ""
+              ]
+            },
+            "title": "Type"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
