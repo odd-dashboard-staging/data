@@ -3157,9 +3157,11 @@
           },
           {
             "name": "Sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "MASCULIN",
+                "FEMININ",
                 ""
               ]
             },
@@ -3167,9 +3169,13 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "15-29",
+                "30-49",
+                "50-64",
+                "65+",
                 ""
               ]
             },
@@ -3177,9 +3183,39 @@
           },
           {
             "name": "Location",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "RDC",
+                "KINSHASA",
+                "KONGO CENTRAL",
+                "KWANGO",
+                "KWILU",
+                "MAI-NDOMBE",
+                "EQUATEUR",
+                "NORD UBANGI",
+                "SUD UBANGI",
+                "MONGALA",
+                "TSHUAPA",
+                "TSHOPO",
+                "BAS UELE",
+                "HAUT UELE",
+                "ITURI",
+                "NORD KIVU",
+                "SUD KIVU",
+                "MANIEMA",
+                "HAUT KATANGA",
+                "HAUT LOMAMI",
+                "LUALABA",
+                "TANGANYIKA",
+                "LOMAMI",
+                "SANKURU",
+                "KASAI ORIENTAL",
+                "KASAI",
+                "KASAI CENTRAL",
+                "AUTRES URBAINS",
+                "ENS URBAIN",
+                "RURAL",
                 ""
               ]
             },
@@ -3194,6 +3230,22 @@
               ]
             },
             "title": "Quantile"
+          },
+          {
+            "name": "Marital_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CELIBATAIRE",
+                "MARIE-E-MONOGAME",
+                "MARIE-E-POLYGAME",
+                "UNION LIBRE",
+                "DIVORCE-E-SEPARE-E-",
+                "VEUF-VE",
+                ""
+              ]
+            },
+            "title": "Marital_status"
           },
           {
             "name": "Units",
@@ -3309,9 +3361,11 @@
           },
           {
             "name": "Sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "MALE",
+                "FEMALE",
                 ""
               ]
             },
@@ -3329,9 +3383,38 @@
           },
           {
             "name": "Location",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "RDC",
+                "KINSHASA",
+                "KONGO CENTRAL",
+                "KWANGO",
+                "KWILU",
+                "MAI-NDOMBE",
+                "EQUATEUR",
+                "NORD UBANGI",
+                "SUD UBANGI",
+                "MONGALA",
+                "TSHUAPA",
+                "TSHOPO",
+                "BAS UELE",
+                "HAUT UELE",
+                "ITURI",
+                "NORD KIVU",
+                "SUD KIVU",
+                "MANIEMA",
+                "HAUT KATANGA",
+                "HAUT LOMAMI",
+                "LUALABA",
+                "TANGANYIKA",
+                "LOMAMI",
+                "SANKURU",
+                "KASAI ORIENTAL",
+                "KASAI CENTRAL",
+                "AUTRES URBAINS",
+                "ENS URBAIN",
+                "RURAL",
                 ""
               ]
             },

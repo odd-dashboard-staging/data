@@ -2,5 +2,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 _N,1,1
 _X,1,1
 BOTHSEX,85,17
-FEMALE,86,39
-MALE,72,29
+FEMALE,87,40
+FEMININ,1,1
+MALE,73,30
+MASCULIN,1,1
